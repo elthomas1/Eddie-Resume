@@ -1,0 +1,23 @@
+header {
+  background-color: lightblue;
+  display: flex;
+  justify-content: space-between;
+}
+#contact {
+}
+
+#content-container {
+  justify-content: stretch;
+  width: 100%;
+
+  display: flex;
+}
+
+#left-column {
+  background-color: grey;
+  flex-grow: 1;
+}
+#right-column {
+  background-color: rgb(50, 151, 64);
+  flex-grow: 5;
+}
