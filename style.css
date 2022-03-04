@@ -16,7 +16,7 @@ header {
 #left-column {
   background-color: grey;
   flex-grow: 1;
-}
+
 #right-column {
   background-color: rgb(50, 151, 64);
   flex-grow: 5;
