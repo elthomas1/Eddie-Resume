@@ -3,8 +3,6 @@ header {
   display: flex;
   justify-content: space-between;
 }
-#contact {
-}
 
 #content-container {
   justify-content: stretch;
