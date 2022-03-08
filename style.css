@@ -14,10 +14,10 @@ header {
 }
 
 #left-column {
-  background-color: grey;
+  background-color: rgb(37, 126, 146);
   flex-grow: 1;
-
+}
 #right-column {
-  background-color: rgb(50, 151, 64);
+  background-color: rgb(255, 255, 255);
   flex-grow: 5;
 }
